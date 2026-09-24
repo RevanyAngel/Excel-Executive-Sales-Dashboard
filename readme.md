@@ -1,4 +1,4 @@
-# Excel Executive Sales Dashboard
+# Executive Sales Dashboard
 
 Tools: Google Sheets
 
@@ -45,7 +45,7 @@ Microsoft Excel / Google Sheets (Data Cleaning, Aggregation, & Dashboard Buildin
 2. Logic & Conditional Tagging: Built status flags using nested IF() statements to differentiate valid sales from pending or failed transactions.
 3. Data Aggregation: Applied SUMIFS() and COUNTIFS() formulas to calculate total valid revenue and category-specific order counts.
 
-### Data Visualization & Dashboard: 
+### Data Visualization & Dashboard
 ![Executive Sales Dashboard](Executive_Sales_Dashboard.png)
 
 ## Key Insights
