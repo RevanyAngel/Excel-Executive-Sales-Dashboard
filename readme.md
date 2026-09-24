@@ -46,7 +46,7 @@ Microsoft Excel / Google Sheets (Data Cleaning, Aggregation, & Dashboard Buildin
 3. Data Aggregation: Applied SUMIFS() and COUNTIFS() formulas to calculate total valid revenue and category-specific order counts.
 
 ### Data Visualization & Dashboard: 
-![Executive Sales Dashboard](Executive Sales Dashboard.png)
+![Executive Sales Dashboard](Executive_Sales_Dashboard.png)
 
 ## Key Insights
 1. Core Contributor: The Elektronika category is the primary driver of gross revenue, contributing Rp81,000,000 out of the total Rp85,450,000 in successful sales.
