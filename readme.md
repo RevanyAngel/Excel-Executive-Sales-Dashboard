@@ -37,7 +37,7 @@ Key Metrics Analyzed:
 ## Methodology & Tools
 
 ### Tools Used
-Microsoft Excel / Google Sheets (Data Cleaning, Aggregation, & Dashboard Building)
+Google Sheets (Data Cleaning, Aggregation, & Dashboard Building)
 
 ### Workflow Steps
 
